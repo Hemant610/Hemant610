@@ -1,15 +1,10 @@
 ## Hi there! I'm Hemant Yadav 👋
 
-<!--
-**Hemant610/Hemant610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
--->
+
 
 ## 💫 About Me:
 I'm a Full Stack Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br><br>🕸️ My portfolio https://hemant-portfoliyo.netlify.app/<br><br>📫 Reach me at yadavhemant610@gmail.com<br><br>💡 Fun Fact: When I'm not coding, I'm exploring new places! I've traveled to trekking himalayas, Egypt, Dubai, Thailand, Malaysia, and Saudi Arabia, Explore Country and each destination has inspired my creativity and problem-solving skills. 🌍✨<br><br>function Life_Of _Future<br>{<br>    name: "Hemant",<br>    age: 24,<br>    location: "India",<br>    role : "Full Stack Developer",<br>    degree : "BCA",<br>    portfolio : "https://hemant-portfoliyo.netlify.app/"<br>}
@@ -28,4 +23,4 @@ I'm a Full Stack Developer passionate about building engaging, scalable, and use
 ---
 [![](https://visitcount.itsvg.in/api?id=Hemant610&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with Hemant ( https://gprm.itsvg.in ) -->
+                                                                                  :heart: Proudly created with Hemant 
